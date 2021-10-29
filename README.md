@@ -1,2 +1,2 @@
-# genius
-Um projeto de um joguinho simples estilo Genius para aprendizado pela DIO
+# Genius 🔴 🟢 🔵 🟡
+Um joguinho rápido feito com HTML, CSS e JavaScript baseado no clássico Genius. Foi feito baseado no projeto da Digital Inovation One com algumas alterações minhas.
